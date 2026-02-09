@@ -2,6 +2,68 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.345](https://github.com/vtexdocs/dev-portal-content/compare/v1.1.344...v1.1.345) (2026-02-09)
+
+
+### ✨ New documentation
+
+* getting-started-with-vtex-ads-in-store-framework guide ([7890a56](https://github.com/vtexdocs/dev-portal-content/commit/7890a5674351084f28e0acefe9767a96ba575ba7))
+* integrating-product-recommendations-in-headless-stores ([e2ce0e2](https://github.com/vtexdocs/dev-portal-content/commit/e2ce0e2019563351674f8946d9f0cbf0be4a9c72))
+* migrate VTEX Ads SDK docs ([e0c9148](https://github.com/vtexdocs/dev-portal-content/commit/e0c91489a827992d65b8c8c730cc1e06e028bfb3))
+
+
+### 🖼️ Media updates
+
+* getting-started-with-vtex-ads-in-store-framework images ([c8577f2](https://github.com/vtexdocs/dev-portal-content/commit/c8577f270d3c6687b8e82dcc2da674957ba56d09))
+
+
+### 📝 Documentation updates
+
+* apply suggestions from code review ([bc2633c](https://github.com/vtexdocs/dev-portal-content/commit/bc2633c5d787b18e62a24bffe141d2866bff1703))
+* apply suggestions from code review ([7e0bbdd](https://github.com/vtexdocs/dev-portal-content/commit/7e0bbdd2a627634973cf01475f20e700e307040a))
+* clarify notification process for load tests ([7d0327f](https://github.com/vtexdocs/dev-portal-content/commit/7d0327f18b30217c091a93ee60c1a70368385d57))
+* clarify user authentication request instructions ([8207b32](https://github.com/vtexdocs/dev-portal-content/commit/8207b32f2a1099abb714b16a34a88aca93d64b87))
+* delivery-promise-for-headless-stores ([02eeda1](https://github.com/vtexdocs/dev-portal-content/commit/02eeda16919520b24dfdabbefcd972c39e5a48c8))
+* edit response definition ([43015bb](https://github.com/vtexdocs/dev-portal-content/commit/43015bb2a3e2f38d139d8b0889660d312743e664))
+* general review of the load testing guide ([093acea](https://github.com/vtexdocs/dev-portal-content/commit/093aceaac454c22e4989477cbd5022dd3526106c))
+* recommendation strategies ([af77e97](https://github.com/vtexdocs/dev-portal-content/commit/af77e97a47052ac81e0551ed8ccecaaad19ddde2))
+* recommendation strategy names faststore ([76e5809](https://github.com/vtexdocs/dev-portal-content/commit/76e5809131eccb05708777008faa46d950a63a56))
+* retrieving-ads ([0bbb22f](https://github.com/vtexdocs/dev-portal-content/commit/0bbb22ffd1260dffd52ff11520be4295c6af4b62))
+
+
+### 📄 Repository documentation
+
+* Add guide for configuring branches in FastStore WebOps ([edb93fd](https://github.com/vtexdocs/dev-portal-content/commit/edb93fdb7ed3f640e1430ed1f27556717a0318ff))
+* add new B2B documentation structure ([271872b](https://github.com/vtexdocs/dev-portal-content/commit/271872bda3f8dfe139e07ef9d5e4827f36798927))
+* Complete guide for configuring branches in FastStore WebOps ([3ea08a5](https://github.com/vtexdocs/dev-portal-content/commit/3ea08a52fb7467189fc70797724506bfa2b94e14))
+* place B2B Buyer Portal warning at top of custom checkout fields guides ([e72b2c0](https://github.com/vtexdocs/dev-portal-content/commit/e72b2c04620012c68cd317aa5205c88f88c90a89))
+* remove old B2B documentation structure ([d75b78d](https://github.com/vtexdocs/dev-portal-content/commit/d75b78dfdbe83ec085576a9603d1af492786d2a0))
+* rename Custom checkout fields settings directory to lowercase ([1971d95](https://github.com/vtexdocs/dev-portal-content/commit/1971d9523d1407c223ea48795c377f7c5ac7576e))
+
+
+### ⚙️ Repository features
+
+* Add new release note for seller and marketplace API. ([941c7ff](https://github.com/vtexdocs/dev-portal-content/commit/941c7ff6d31a88aa5520ad8b991173f4ba9362c3))
+* update taxConfiguration body to include multiple addresses ([511bcc6](https://github.com/vtexdocs/dev-portal-content/commit/511bcc6eab9e54373755994e38db16960c0fb727))
+
+
+### 🔧 Fixes and improvements
+
+* add excerpt ([5f5e13a](https://github.com/vtexdocs/dev-portal-content/commit/5f5e13a0ff8b41881e537550816399390f592f5e))
+* convert flowchart to mermaid ([5a4b812](https://github.com/vtexdocs/dev-portal-content/commit/5a4b812261db47d94054cfcbaa942e615d216fc4))
+* correct indentation in frontmatter tags ([50c0299](https://github.com/vtexdocs/dev-portal-content/commit/50c02998fb851d2e60a4be3e9f8750e9c72af3ba))
+* edit formatting ([58df88b](https://github.com/vtexdocs/dev-portal-content/commit/58df88b5f31a0f8bc3214abc1a3e177be5fcc06b))
+* fix bot suggestions ([f4c27aa](https://github.com/vtexdocs/dev-portal-content/commit/f4c27aaf3bccadca214f4361b279600d3abb62b5))
+* fix grammar errors ([f0074ee](https://github.com/vtexdocs/dev-portal-content/commit/f0074ee689369fbe39a4c515edef9851cf437a9f))
+* fix suggestions ([8541853](https://github.com/vtexdocs/dev-portal-content/commit/85418536291a2de25fe3c83845a6f255b2f20f41))
+* frontmatter ([110b3a2](https://github.com/vtexdocs/dev-portal-content/commit/110b3a2baae59c010268fc37b887b24926e5fb6b))
+* remove trailing space ([c85e965](https://github.com/vtexdocs/dev-portal-content/commit/c85e965372e36076196e0633eef98b65bd1733d9))
+* remove trailing spaces ([96b1baa](https://github.com/vtexdocs/dev-portal-content/commit/96b1baae5aa367f7d72882873647e729238e56d9))
+* restore  file ([70fa426](https://github.com/vtexdocs/dev-portal-content/commit/70fa426af7ca11c55741f1748995703516084e52))
+* slug, dates and links ([5d034f8](https://github.com/vtexdocs/dev-portal-content/commit/5d034f81dddffbfcfdb7600fec298cd1327795d0))
+* update createdAt and updatedAt timestamps in release notes ([a0c4166](https://github.com/vtexdocs/dev-portal-content/commit/a0c4166627e666a6ef870893e7a2c9630fc4c6dd))
+* update shippingDestinations field and remove destinationAddresses ([b66b8d1](https://github.com/vtexdocs/dev-portal-content/commit/b66b8d1f59eb7be089093ef7744b79588a668406))
+
 ### [1.1.344](https://github.com/vtexdocs/dev-portal-content/compare/v1.1.342...v1.1.344) (2025-11-26)
 
 ### [1.1.342](https://github.com/vtexdocs/dev-portal-content/compare/v1.1.340...v1.1.342) (2025-11-26)
